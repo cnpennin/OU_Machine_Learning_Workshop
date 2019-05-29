@@ -1,5 +1,5 @@
 # Machine Learning Workshop For OU
-To Launch a remote session click the binder button -->
+To launch a remote session click the binder button -->
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cnpennin/OU_Machine_Learning_Workshop/master)
 
 # Introduction   
